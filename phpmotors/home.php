@@ -7,7 +7,10 @@
     <link rel="stylesheet" href="css/main.css">
 </head>
 <body>
-<h1> test
+<header>
+<img src="site/logo.png" alt="logo">
+</header>
+<h1> test </h1>
  
 </body>
 </html>
